@@ -2,7 +2,7 @@
 
 require_once dirname(__FILE__).'/lib/redbean/rb.php';
 
-use RedBeanPHP\RedBean_Instance as RedBean_instance;
+use RedBeanPHP\RedBean_Instance as RedBean_Instance;
 
 
 /*
